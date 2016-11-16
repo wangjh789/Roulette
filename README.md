@@ -18,7 +18,7 @@ USAGE:
   
 Explanation:
 
-  This app will have 6 distractor. When you push the button, roulette will spin and choose 1 distractor.
+  This app will have 6 max distractors. When you push the button, roulette will spin and choose 1 distractor.
   
   Background screen will be white-color. Button will be red-circle.
   
