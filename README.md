@@ -38,17 +38,25 @@ Now, Our application has only a Roulette function, we will add Map funtion to fi
 Add other harmonious sound and effect of Roulette to roll more funny.
 
 We will add function helping user's choice like Ghost Leg, users can use the application widly.
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
+
+------------------------------------------------------------------------------------------------------------------------
+
+Implementation language : java
+License : Apache License
+Apache License ?
+      :Apache 2.0 License means license rule that anybody can make derivating program, transfer and transmit copyright.
+      According to Apache License, anybody downloads freely Apache software, and exploits individual or commercial purpose.
+      When redistributing, it must have not to involve necessarily, it involves Apache License version 2.0.
+      It must reveal software in Apache Software Foundation
+      
+-------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Introduction to the future updates plans
+
+
+
 /
 
 Our project is random Roulette android application.
